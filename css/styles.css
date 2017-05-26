@@ -31,7 +31,7 @@ img{
 }
 
 .jumbotron {
-  background-color: #e6f9ff;
+  background-color: inherit;
   overflow: hidden;
 }
 
@@ -55,6 +55,10 @@ img{
 
 .jumbotron ul{
   float: right;
+  list-style-type: none;
+  font-family: sans-serif;
+  font-size: 20px;
+  color: black;
 }
 
 h1 {
@@ -62,6 +66,16 @@ h1 {
 }
 
 body {
-  background-color: black;
+  /*background-image:url(http://wallpapercave.com/wp/EPjdonr.jpg);*/
 
+
+}
+#dyl {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+#project {
+  text-align: center;
+  padding-bottom: 30px;
 }
