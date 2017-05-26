@@ -6,17 +6,40 @@
   text-align: center;
 }
 
+.panel-body p{
+  font-size: 18px;
+}
+
 
 .well {
   padding-left: 50px;
+  background-color: inherit;
+}
+
+.well p{
+  font-size: 18px;
+}
+
+.well h1{
+  text-align: center;
 }
 
 img{
-  width: 250px;
-  height: 250px;
+  width: 150px;
+  height: 150px;
   float: right;
 }
 
 .jumbotron {
+  background-color: #d6f6ff;
   overflow: hidden;
+}
+
+
+.panel-title{
+  color: black;
+}
+
+.panel-heading h3{
+  font-family: fantasy;
 }
