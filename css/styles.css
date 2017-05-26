@@ -10,6 +10,9 @@
   font-size: 18px;
 }
 
+.panel-body li{
+  font-size: 18px;
+}
 
 .well {
   padding-left: 50px;
@@ -81,4 +84,9 @@ body {
 #project {
   text-align: center;
   padding-bottom: 30px;
+}
+
+
+#listy{
+  text-align: left;
 }
