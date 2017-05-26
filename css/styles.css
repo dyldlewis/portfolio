@@ -27,7 +27,8 @@
 img{
   width: 150px;
   height: 150px;
-  float: left;
+  padding-top: 20px;
+  /*float: left;*/
 }
 
 .jumbotron {
@@ -54,11 +55,12 @@ img{
 }
 
 .jumbotron ul{
-  float: right;
+  /*float: right;*/
   list-style-type: none;
   font-family: sans-serif;
   font-size: 20px;
   color: black;
+  padding-top: 20px;
 }
 
 h1 {
