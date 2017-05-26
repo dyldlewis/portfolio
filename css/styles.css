@@ -13,7 +13,7 @@
 
 .well {
   padding-left: 50px;
-  background-color: inherit;
+  background-color: #d6f6ff;
 }
 
 .well p{
@@ -42,4 +42,13 @@ img{
 
 .panel-heading h3{
   font-family: fantasy;
+}
+
+.jumbotron {
+  text-align: center;
+
+}
+
+.jumbotron ul{
+  float: right;
 }
