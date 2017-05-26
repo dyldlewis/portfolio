@@ -13,7 +13,7 @@
 
 .well {
   padding-left: 50px;
-  background-color: #d6f6ff;
+  background-color: #e6f9ff;
 }
 
 .well p{
@@ -27,11 +27,11 @@
 img{
   width: 150px;
   height: 150px;
-  float: right;
+  float: left;
 }
 
 .jumbotron {
-  background-color: #d6f6ff;
+  background-color: #e6f9ff;
   overflow: hidden;
 }
 
@@ -44,6 +44,10 @@ img{
   font-family: fantasy;
 }
 
+.panel-heading h1{
+  font-size: 20px;
+}
+
 .jumbotron {
   text-align: center;
 
@@ -51,4 +55,13 @@ img{
 
 .jumbotron ul{
   float: right;
+}
+
+h1 {
+  font-family: serif;
+}
+
+body {
+  background-color: black;
+
 }
